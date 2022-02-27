@@ -1,0 +1,18 @@
+/*.container-fluid{
+    background: linear-gradient(360deg, grey, lightgrey) !important;
+}*/
+i {
+    color: skyblue !important;
+}
+.btn-outline-light{
+    margin-right: -45px;
+    margin-bottom: 50px;
+}
+.btn-outline-secondary{
+    margin-right: -1px !important;
+    margin-bottom: 20px !important;
+    margin-top: 40px !important;
+}
+
+
+/* height of the image and <576 condition */
